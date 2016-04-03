@@ -2,3 +2,4 @@ config.codekit
 jquery-1.12.1.min.js
 app-min.js
 .DS_Store
+bower_components

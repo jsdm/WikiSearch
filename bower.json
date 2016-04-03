@@ -1,0 +1,21 @@
+{
+  "name": "WikiSearch",
+  "homepage": "https://github.com/jsdm/WikiSearch",
+  "authors": [
+    "JSDM <161076@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
